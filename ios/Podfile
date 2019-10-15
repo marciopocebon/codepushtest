@@ -43,13 +43,3 @@ target 'novocodepush' do
 
   use_native_modules!
 end
-
-target 'novocodepush-tvOS' do
-  # Pods for novocodepush-tvOS
-
-  target 'novocodepush-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-end
