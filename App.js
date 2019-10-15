@@ -7,7 +7,7 @@ import { View, Text } from 'react-native';
 function App() {
   return (
     <View>
-      <Text>Hello World</Text>
+      <Text>Hello Rocketseat</Text>
     </View>
   );
 }
